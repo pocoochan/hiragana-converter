@@ -1,0 +1,1 @@
+ /Users/saya/git/hiragana-converter/.dart_tool/flutter_build/d9142ab333911b89f0b56ea38bb29c7c/native_assets.yaml: 
